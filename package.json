@@ -1,8 +1,8 @@
 {
-  "name": "learn-react-native-hoidanit",
+  "name": "learn-react-native",
   "author": {
-    "name": "Hỏi Dân IT",
-    "url": "https://hoidanit.vn"
+    "name": "Kazato",
+    "url": "https://github.com/khiempm"
   },
   "version": "1.0.0",
   "main": "expo/AppEntry.js",
@@ -14,10 +14,10 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "51.0.20",
+    "expo": "51.0.39",
     "expo-status-bar": "1.12.1",
     "react": "18.2.0",
-    "react-native": "0.74.3"
+    "react-native": "0.74.5"
   },
   "devDependencies": {
     "@babel/core": "7.24.8",
